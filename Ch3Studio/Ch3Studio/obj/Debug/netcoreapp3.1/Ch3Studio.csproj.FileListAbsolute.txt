@@ -1,0 +1,13 @@
+C:\Users\cassi\Desktop\LC101\csharp-practice\ch-three\Ch3Studio\Ch3Studio\bin\Debug\netcoreapp3.1\Ch3Studio.exe
+C:\Users\cassi\Desktop\LC101\csharp-practice\ch-three\Ch3Studio\Ch3Studio\bin\Debug\netcoreapp3.1\Ch3Studio.deps.json
+C:\Users\cassi\Desktop\LC101\csharp-practice\ch-three\Ch3Studio\Ch3Studio\bin\Debug\netcoreapp3.1\Ch3Studio.runtimeconfig.json
+C:\Users\cassi\Desktop\LC101\csharp-practice\ch-three\Ch3Studio\Ch3Studio\bin\Debug\netcoreapp3.1\Ch3Studio.runtimeconfig.dev.json
+C:\Users\cassi\Desktop\LC101\csharp-practice\ch-three\Ch3Studio\Ch3Studio\bin\Debug\netcoreapp3.1\Ch3Studio.dll
+C:\Users\cassi\Desktop\LC101\csharp-practice\ch-three\Ch3Studio\Ch3Studio\bin\Debug\netcoreapp3.1\Ch3Studio.pdb
+C:\Users\cassi\Desktop\LC101\csharp-practice\ch-three\Ch3Studio\Ch3Studio\obj\Debug\netcoreapp3.1\Ch3Studio.csprojAssemblyReference.cache
+C:\Users\cassi\Desktop\LC101\csharp-practice\ch-three\Ch3Studio\Ch3Studio\obj\Debug\netcoreapp3.1\Ch3Studio.AssemblyInfoInputs.cache
+C:\Users\cassi\Desktop\LC101\csharp-practice\ch-three\Ch3Studio\Ch3Studio\obj\Debug\netcoreapp3.1\Ch3Studio.AssemblyInfo.cs
+C:\Users\cassi\Desktop\LC101\csharp-practice\ch-three\Ch3Studio\Ch3Studio\obj\Debug\netcoreapp3.1\Ch3Studio.csproj.CoreCompileInputs.cache
+C:\Users\cassi\Desktop\LC101\csharp-practice\ch-three\Ch3Studio\Ch3Studio\obj\Debug\netcoreapp3.1\Ch3Studio.dll
+C:\Users\cassi\Desktop\LC101\csharp-practice\ch-three\Ch3Studio\Ch3Studio\obj\Debug\netcoreapp3.1\Ch3Studio.pdb
+C:\Users\cassi\Desktop\LC101\csharp-practice\ch-three\Ch3Studio\Ch3Studio\obj\Debug\netcoreapp3.1\Ch3Studio.genruntimeconfig.cache
